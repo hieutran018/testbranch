@@ -9,5 +9,9 @@ COMMIT 2 - branch 1
 COMMIT 2 - branch 1
 COMMIT 2 - branch 1
 
+COMMIT 3 - branch 2
+COMMIT 3 - branch 2
+COMMIT 3 - branch 2
+
 
 
